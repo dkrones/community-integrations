@@ -1,3 +1,6 @@
+Readme example using required structure: 
+
+
 # **Service name**
 
 _Include CircleCI status and SonarCloud badges for health check. For example:_
