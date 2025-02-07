@@ -1,4 +1,4 @@
-Readme example using required structure: 
+# Readme structure example 
 
 
 # **Service name**
